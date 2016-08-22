@@ -1,0 +1,25 @@
+div{
+	width: 100px;
+	height: 100px;
+	background-color:#40e0d0;
+	margin-top: 5px;
+	border: 1px solid black;
+}
+.caja_madre{
+	width: 330px;
+	height: 110px;
+	margin-top: 5px;
+	border: 1px solid black;
+}
+.segunda{
+	width: 95px;
+	height: 95px;
+	display: inline-block;
+	border: 1px solid black;
+	margin: 5px;
+}
+.tercera{
+	margin-right: 10px;
+	display:inline-block;
+	
+}
